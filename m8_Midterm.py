@@ -382,7 +382,6 @@ Process finished with exit code 0
 # ====================================
 import random
 
-
 def main():
     # creating a list of 5 random names
     names = ["Ashely", "Nick", "Jonas", "Rob", "Jazmine"]
